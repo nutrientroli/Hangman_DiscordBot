@@ -1,1 +1,1 @@
-# HelloWorld_DiscordBot
+# Hangman_DiscordBot
